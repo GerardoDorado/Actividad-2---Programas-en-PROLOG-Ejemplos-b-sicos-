@@ -1,0 +1,1 @@
+# Actividad-2---Programas-en-PROLOG-Ejemplos-b-sicos-
